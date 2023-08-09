@@ -1,1 +1,1 @@
-# OCR-Tool
+# OCR Tool
